@@ -203,11 +203,11 @@ footer p a {
   }
 
   .profile-content {
-    padding-top: 0;
+    padding-top: 1rem;
   }
 
   .role {
-    top: 0;
+    top: 1rem;
   }
 
   .name {
