@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
 
 :root {
-  --content-max-size: 1000px;
+	--content-max-size: 1000px;
 }
 
 * {
@@ -90,6 +90,7 @@ main {
   position: relative;
 }
 
+
 .img-wrapper {
   width: 82%;
   background-color: #000000;
@@ -160,7 +161,7 @@ footer p a {
 
 }
 
-@media (max-width: 999px) {
+@media (max-width: 1016px) {
 
   header {
     flex-direction: column;
@@ -184,7 +185,7 @@ footer p a {
 }
 
 
-@media (max-width: 660px) {
+@media (max-width: 684px) {
 
   header {
     align-items: flex-start;
@@ -193,6 +194,7 @@ footer p a {
   header div {
     width: 100%;
   }
+
 
   .profile {
     width: 50%;
